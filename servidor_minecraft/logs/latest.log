@@ -1,0 +1,191 @@
+[01:35:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:35:38] [ServerMain/INFO]: Loaded 1290 recipes
+[01:35:39] [ServerMain/INFO]: Loaded 1399 advancements
+[01:35:39] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:35:39] [Server thread/INFO]: Loading properties
+[01:35:39] [Server thread/INFO]: Default game type: SURVIVAL
+[01:35:39] [Server thread/INFO]: Generating keypair
+[01:35:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:35:40] [Server thread/INFO]: Using epoll channel type
+[01:35:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:35:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:35:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:35:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:35:40] [Server thread/INFO]: Preparing level "world"
+[01:35:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:35:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:35:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:35:49] [Server thread/INFO]: Time elapsed: 832 ms
+[01:35:49] [Server thread/INFO]: Done (9.243s)! For help, type "help"
+[01:36:52] [Server thread/INFO]: cuycito[/[0:0:0:0:0:0:0:1%0]:49560] logged in with entity id 40 at (-55.31048832444419, 109.43717636799826, 44.30000001192093)
+[01:36:52] [Server thread/INFO]: cuycito joined the game
+[01:36:53] [Server thread/INFO]: Superpro99871[/[0:0:0:0:0:0:0:1%0]:49546] logged in with entity id 89 at (-56.04725514636449, 143.0, 21.43965285872734)
+[01:36:53] [Server thread/INFO]: Superpro99871 joined the game
+[01:36:56] [Server thread/INFO]: cuycito fell from a high place
+[01:37:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=9, y=128, z=-6}
+[01:37:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=8, y=128, z=-6}
+[01:37:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=9, y=128, z=-5}
+[01:40:13] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[01:40:53] [Server thread/INFO]: cuycito was slain by Superpro99871
+[01:41:23] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to cuycito]
+[01:43:14] [Server thread/INFO]: [Superpro99871: Removed 1 item(s) from player cuycito]
+[01:43:28] [Server thread/INFO]: [Superpro99871: Gave 1 [Water Bucket] to cuycito]
+[01:44:08] [Server thread/INFO]: cuycito was shot by Skeleton
+[01:44:45] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[01:45:02] [Server thread/INFO]: cuycito was shot by Skeleton
+[01:47:18] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to cuycito]
+[01:48:42] [Server thread/INFO]: cuycito was slain by Enderman
+[01:48:54] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[01:49:14] [Server thread/INFO]: cuycito was slain by Enderman
+[01:50:10] [Server thread/INFO]: cuycito lost connection: You logged in from another location
+[01:50:10] [Server thread/INFO]: cuycito left the game
+[01:50:11] [Server thread/WARN]: handleDisconnection() called twice
+[01:50:12] [Server thread/INFO]: cuycito[/[0:0:0:0:0:0:0:1%0]:49106] logged in with entity id 3699 at (-23.69999998807907, 132.0, 16.15219695288714)
+[01:50:12] [Server thread/INFO]: cuycito joined the game
+[01:50:20] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[01:51:55] [Server thread/INFO]: cuycito was slain by Piglin
+[01:51:58] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to cuycito]
+[01:53:51] [Server thread/INFO]: cuycito lost connection: You logged in from another location
+[01:53:51] [Server thread/INFO]: cuycito left the game
+[01:53:53] [Server thread/INFO]: cuycito[/[0:0:0:0:0:0:0:1%0]:54838] logged in with entity id 4799 at (5.300000011920929, 130.0, -15.523454359692602)
+[01:53:53] [Server thread/INFO]: cuycito joined the game
+[01:54:13] [Server thread/INFO]: cuycito lost connection: You logged in from another location
+[01:54:13] [Server thread/INFO]: cuycito left the game
+[01:54:15] [Server thread/INFO]: cuycito[/[0:0:0:0:0:0:0:1%0]:59066] logged in with entity id 4853 at (5.300000011920929, 130.0, -15.523454359692602)
+[01:54:15] [Server thread/INFO]: cuycito joined the game
+[01:54:30] [Server thread/INFO]: cuycito lost connection: You logged in from another location
+[01:54:30] [Server thread/INFO]: cuycito left the game
+[01:54:31] [Server thread/INFO]: cuycito[/[0:0:0:0:0:0:0:1%0]:44126] logged in with entity id 4892 at (5.300000011920929, 130.0, -15.315387698379652)
+[01:54:31] [Server thread/INFO]: cuycito joined the game
+[01:54:51] [Server thread/INFO]: cuycito lost connection: You logged in from another location
+[01:54:51] [Server thread/INFO]: cuycito left the game
+[01:54:52] [Server thread/INFO]: cuycito[/[0:0:0:0:0:0:0:1%0]:40170] logged in with entity id 4937 at (5.300000011920929, 130.0, -15.622064068870886)
+[01:54:52] [Server thread/INFO]: cuycito joined the game
+[01:55:14] [Server thread/INFO]: cuycito lost connection: You logged in from another location
+[01:55:14] [Server thread/INFO]: cuycito left the game
+[01:55:16] [Server thread/INFO]: cuycito[/[0:0:0:0:0:0:0:1%0]:49168] logged in with entity id 4978 at (5.300000011920929, 130.0, -15.340237166203574)
+[01:55:16] [Server thread/INFO]: cuycito joined the game
+[01:55:27] [Server thread/INFO]: cuycito lost connection: You logged in from another location
+[01:55:27] [Server thread/INFO]: cuycito left the game
+[01:55:27] [Server thread/WARN]: handleDisconnection() called twice
+[01:55:28] [Server thread/INFO]: cuycito[/[0:0:0:0:0:0:0:1%0]:33236] logged in with entity id 5006 at (4.5339514013432085, 134.0, -14.41306444946199)
+[01:55:28] [Server thread/INFO]: cuycito joined the game
+[01:55:50] [Server thread/INFO]: cuycito lost connection: You logged in from another location
+[01:55:50] [Server thread/INFO]: cuycito left the game
+[01:55:51] [Server thread/INFO]: cuycito[/[0:0:0:0:0:0:0:1%0]:57512] logged in with entity id 5060 at (7.1967068105098155, 130.0, -15.1942871223757)
+[01:55:51] [Server thread/INFO]: cuycito joined the game
+[01:59:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=100, z=-17} jd{x=5, y=101, z=-16}
+[01:59:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=100, z=-17} jd{x=5, y=101, z=-16}
+[01:59:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=100, z=-17} jd{x=6, y=101, z=-16}
+[01:59:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=100, z=-17} jd{x=6, y=100, z=-16}
+[01:59:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=100, z=-17} jd{x=6, y=100, z=-16}
+[01:59:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=100, z=-17} jd{x=6, y=101, z=-16}
+[01:59:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=100, z=-17} jd{x=5, y=101, z=-16}
+[01:59:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=6, y=100, z=-17} jd{x=5, y=100, z=-16}
+[01:59:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=99, z=-17} jd{x=6, y=100, z=-16}
+[01:59:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=99, z=-17} jd{x=6, y=101, z=-16}
+[01:59:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=99, z=-17} jd{x=5, y=100, z=-16}
+[01:59:34] [Server thread/INFO]: cuycito lost connection: You logged in from another location
+[01:59:34] [Server thread/INFO]: cuycito left the game
+[01:59:36] [Server thread/INFO]: cuycito[/[0:0:0:0:0:0:0:1%0]:40800] logged in with entity id 5517 at (5.573292584539116, 100.0, -16.76703795853742)
+[01:59:36] [Server thread/INFO]: cuycito joined the game
+[01:59:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=6, y=100, z=-16}
+[01:59:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=6, y=101, z=-16}
+[01:59:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=6, y=100, z=-16}
+[01:59:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=5, y=100, z=-16}
+[01:59:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=99, z=-17} jd{x=5, y=99, z=-16}
+[01:59:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=99, z=-17} jd{x=5, y=99, z=-16}
+[01:59:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=98, z=-17} jd{x=5, y=99, z=-16}
+[01:59:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5, y=98, z=-17} jd{x=5, y=100, z=-16}
+[01:59:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=8, y=101, z=-17} jd{x=7, y=100, z=-16}
+[01:59:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=8, y=101, z=-17} jd{x=7, y=101, z=-16}
+[01:59:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=10, y=101, z=-17} jd{x=7, y=100, z=-16}
+[01:59:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=10, y=101, z=-17} jd{x=7, y=100, z=-16}
+[01:59:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=10, y=101, z=-17} jd{x=7, y=100, z=-16}
+[01:59:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=10, y=101, z=-17} jd{x=7, y=101, z=-16}
+[02:00:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=10, y=101, z=-17} jd{x=5, y=100, z=-16}
+[02:00:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=10, y=101, z=-17} jd{x=6, y=100, z=-16}
+[02:00:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=10, y=101, z=-17} jd{x=6, y=101, z=-16}
+[02:00:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=10, y=101, z=-17} jd{x=6, y=100, z=-16}
+[02:00:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=10, y=101, z=-17} jd{x=5, y=101, z=-16}
+[02:00:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=10, y=101, z=-17} jd{x=5, y=100, z=-16}
+[02:02:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=54, z=-17} jd{x=7, y=55, z=-16}
+[02:02:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=54, z=-17} jd{x=6, y=54, z=-16}
+[02:02:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=54, z=-17} jd{x=6, y=55, z=-16}
+[02:02:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=54, z=-17} jd{x=6, y=54, z=-16}
+[02:02:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=54, z=-17} jd{x=6, y=54, z=-16}
+[02:02:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=54, z=-17} jd{x=6, y=55, z=-16}
+[02:02:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=54, z=-17} jd{x=5, y=54, z=-16}
+[02:02:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=54, z=-17} jd{x=5, y=54, z=-16}
+[02:02:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=54, z=-17} jd{x=5, y=55, z=-16}
+[02:02:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=54, z=-17} jd{x=5, y=54, z=-16}
+[02:02:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=54, z=-17} jd{x=5, y=55, z=-16}
+[02:02:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3, y=53, z=-17} jd{x=8, y=55, z=-16}
+[02:02:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3, y=53, z=-17} jd{x=7, y=55, z=-16}
+[02:03:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=38, z=-18} jd{x=6, y=37, z=-13}
+[02:03:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=38, z=-18} jd{x=6, y=37, z=-14}
+[02:03:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=38, z=-18} jd{x=6, y=37, z=-15}
+[02:04:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=38, z=-18} jd{x=6, y=37, z=-15}
+[02:04:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=38, z=-18} jd{x=7, y=36, z=-15}
+[02:04:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=38, z=-18} jd{x=6, y=36, z=-15}
+[02:04:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=38, z=-18} jd{x=6, y=37, z=-15}
+[02:04:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=38, z=-18} jd{x=6, y=37, z=-14}
+[02:04:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=38, z=-18} jd{x=6, y=37, z=-14}
+[02:04:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=38, z=-18} jd{x=6, y=37, z=-15}
+[02:15:16] [Server thread/INFO]: cuycito was blown up by Creeper
+[02:15:41] [Server thread/INFO]: cuycito fell from a high place
+[02:16:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3, y=45, z=-18} jd{x=1, y=47, z=-16}
+[02:17:02] [Server thread/INFO]: cuycito fell from a high place
+[02:21:41] [Server thread/INFO]: cuycito was shot by Skeleton
+[02:21:53] [Server thread/INFO]: cuycito fell from a high place
+[02:22:04] [Server thread/INFO]: cuycito fell from a high place
+[02:27:58] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[02:28:15] [Server thread/INFO]: cuycito tried to swim in lava
+[02:30:14] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to cuycito]
+[02:30:44] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to cuycito]
+[02:31:28] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to cuycito]
+[02:32:13] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to cuycito]
+[02:32:44] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to cuycito]
+[02:33:30] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[02:34:11] [Server thread/INFO]: cuycito was slain by Zombie
+[02:34:29] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[02:35:40] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to cuycito]
+[02:35:42] [Server thread/INFO]: Superpro99871 was impaled on a stalagmite
+[02:35:48] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to cuycito]
+[02:36:18] [Server thread/INFO]: cuycito was slain by Superpro99871
+[02:36:29] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[02:36:52] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[02:37:33] [Server thread/INFO]: cuycito was slain by Superpro99871
+[02:37:40] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[02:37:48] [Server thread/INFO]: cuycito was slain by Superpro99871
+[02:37:57] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[02:38:32] [Server thread/INFO]: cuycito tried to swim in lava
+[02:38:50] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[02:39:15] [Server thread/INFO]: cuycito tried to swim in lava
+[02:39:25] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[02:41:24] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to cuycito]
+[02:42:03] [Server thread/INFO]: [Superpro99871: Set own game mode to Spectator Mode]
+[02:42:24] [Server thread/INFO]: [Superpro99871: Set own game mode to Survival Mode]
+[02:42:40] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[02:44:37] [Server thread/INFO]: cuycito tried to swim in lava
+[02:44:43] [Server thread/INFO]: [Superpro99871: Teleported cuycito to Superpro99871]
+[02:45:18] [Server thread/INFO]: Superpro99871 tried to swim in lava
+[02:48:55] [Server thread/INFO]: cuycito lost connection: Timed out
+[02:48:55] [Server thread/INFO]: cuycito left the game
+[02:49:42] [Server thread/INFO]: [Superpro99871: Gave 64 [Block of Diamond] to Superpro99871]
+[02:49:47] [Server thread/INFO]: cuycito[/[0:0:0:0:0:0:0:1%0]:47964] logged in with entity id 15019 at (-62.30000001192093, -41.0, -181.59831825588742)
+[02:49:47] [Server thread/INFO]: cuycito joined the game
+[02:51:49] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to cuycito]
+[02:54:06] [Server thread/INFO]: [Superpro99871: Kicked cuycito: Kicked by an operator]
+[02:54:06] [Server thread/INFO]: cuycito lost connection: Kicked by an operator
+[02:54:06] [Server thread/INFO]: cuycito left the game
+[02:54:22] [Server thread/INFO]: [Superpro99871: Gave 64 [Netherite Ingot] to Superpro99871]
+[02:54:43] [Server thread/INFO]: [Superpro99871: Set own game mode to Creative Mode]
+[02:54:52] [Server thread/INFO]: [Superpro99871: Set own game mode to Survival Mode]
+[02:55:06] [Server thread/INFO]: Superpro99871 was killed
+[02:55:06] [Server thread/INFO]: [Superpro99871: Killed Superpro99871]
+[02:57:02] [Server thread/INFO]: Superpro99871 has completed the challenge [Cover Me in Debris]
+[02:57:45] [Server thread/INFO]: Superpro99871 lost connection: Timed out
+[02:57:45] [Server thread/INFO]: Superpro99871 left the game
+[03:01:44] [Server thread/INFO]: cuycito[/[0:0:0:0:0:0:0:1%0]:49852] logged in with entity id 16867 at (-41.526546211761435, -43.0, -157.35103340440554)
+[03:01:44] [Server thread/INFO]: cuycito joined the game
